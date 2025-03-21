@@ -1,0 +1,122 @@
+/* * {
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+p {
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h1 {
+    color: green;
+}
+
+.first-h1 {
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+#container {
+    height: 200px;
+    width: 400px;
+    background-color: grey;
+
+
+    
+} */
+
+/* input[required] {
+    border: 2px solid red;
+}
+
+a[href] {
+    color: green;
+}
+
+img[alt] {
+    border: 5px solid red;
+} */
+
+/* input[type="text"] {
+    border: 2px solid red;
+}
+input[type="email"] {
+    border: 2px solid blue;
+}
+input[type="password"] {
+    border: 2px solid green;
+} */
+
+/* p[class~="box"] {
+    color: blue;
+    font-weight: bold;
+} */
+
+/* p[class|="en"] {
+    color: blue;
+    font-size: 20px;
+} */
+
+/* a[href^="https"] {
+    color: green;
+    text-decoration: none;
+}
+
+p[class^="nav"] {
+    color: blue;
+} */
+/* img[src$=".png"] {
+    border: 5px solid blue;
+} */
+
+/* button {
+    padding: 10px;
+    font-weight: bold;
+    background-color: grey;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+button:hover {
+    background-color: white;
+    color: grey;
+} */
+
+/* li:first-child {
+    color: blue;
+} */
+/* li:nth-child(odd) {
+    color: red;
+    font-size: 20px;
+} */
+/* li:last-child {
+    color: blueviolet;
+    font-weight: bold;
+} */
+
+/* input:checked {
+    outline: 2px solid green;
+} */
+
+/* p::selection {
+    background-color: yellow;
+    color: red;
+} */
+
+p::before {
+    content: "-";
+    color: blue;
+    font-weight: bold;
+}
+p::after {
+    content: "+";
+    color: blue;
+    font-weight: bold;
+}

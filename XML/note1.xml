@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE note SYSTEM 'note1.dtd' [
+    <!ATTLIST note id ID #REQUIRED>
+    <!ATTLIST note language CDATA #REQUIRED>
+    <!ATTLIST note genre (Horror | Sci-fi | Action) #REQUIRED>
+]>
+<note id="abc123" language="English" genre="Action">
+    <to>Alice</to>
+    <from>Bob</from>
+    <message>Hi, How are you?</message>
+</note>

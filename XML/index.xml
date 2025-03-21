@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Naming xmlns:h="www.example.com/company" xmlns:f="www.example.com/fruits">
+    <h:Company>
+        <h:name>Apple Inc.</h:name>
+    </h:Company>
+    <f:Fruit>
+        <f:name>Apple</f:name>
+    </f:Fruit>
+</Naming>

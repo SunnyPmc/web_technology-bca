@@ -1,0 +1,17 @@
+<library>
+    <book id="b1">
+        <title>Harry Potter</title>
+        <author>J.K. Rowling</author>
+        <price>20</price>
+    </book>
+    <book id="b2">
+        <title>The Hobbit</title>
+        <author>J.R.R. Tolkien</author>
+        <price>15</price>
+    </book>
+    <book id="b3">
+        <title>1984</title>
+        <author>George Orwell</author>
+        <price>18</price>
+    </book>
+</library>

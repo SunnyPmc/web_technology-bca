@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+let $library :=
+<library>
+    <book>
+        <title>Harry Potter</title>
+        <author>J.K. Rowling</author>
+        <price>20</price>
+    </book>
+    <book>
+        <title>The Hobbit</title>
+        <author>J.R.R. Tolkien</author>
+        <price>15</price>
+    </book>
+</library>
+return $library//book[1]/author/text()
